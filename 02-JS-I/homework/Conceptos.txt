@@ -1,0 +1,16 @@
+=> VARIABLES
+Las variables sirven para guardar datos ya sea de tipo entero, doble o cadena para ser usado posteriormente.
+
+
+=> STRINGS
+Las Strings son un tipo de datos tipo texto, declarados entre comillas o comilla simple en una variable.
+
+=> FUNCIONES (argumentos, `return`)
+Las funciones son objetos que son invocados en cualquier momento de la ejecución de un algoritmo. Las funciones tambien usan variables para recibir datos y retornan valores.	
+
+=> DECLARACIONES
+Las declaraciones es para las variables, donde se indica o específica a la computadora el nombre de la variable y el tipo de variable. Es decir, si la variable es de tipo entero, cadena, decimal o lógico (verdadero o falso).
+
+
+=> VALORES BOOLEANOS (`true`, `false`)
+Los valores Booleanos actuan en funcion a Verdadero y Falso o True y False, que son representados con 1 y 0 (código binario). Es decir, es 1 cuando es True y 0 cuando es False.
