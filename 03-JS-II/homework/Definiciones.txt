@@ -1,0 +1,20 @@
+CONCEPTOS
+
+FOR
+
+=> El for es un bucle que se tiene un contador y se ejecuta un recorrido mientras el contador cumple con la condición dada. En el for se puede ejecutar el recorrido del contador de manera ascendete y descendente.
+
+
+&&
+
+=> El operador lógico Y (AND) evalúa todas las condiciones, donde retorna un valor Verdadero o True si se cumplen todas las condiciones. Por otro lado, si una condución no se cumple este retorna un valor Falso o False.
+
+
+||
+
+=> El operador lógico O (OR) evalúa todas las condiciones, a diferencia del operador anterior este retorna un valor Verdadero o True si se cumplen una de las condiciones. Por otro lado, si no se cumple ninguna condución retorna un valor Falso o False.
+
+
+!
+
+=> El operador lógico NO (NOT) se establece antes de asignar el igual (=) o antes del un valor booleano, es usado en una condición donde hace mención a un valor contrario de la condición. 
