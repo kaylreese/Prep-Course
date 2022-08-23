@@ -1,0 +1,7 @@
+ARRAY
+
+=> Un array en programación se conoce a un tipo de dato que almacena datos del mismo tipo y relacionados. Este tipo de datos también se conoce como vector o matriz y se utilizan agrupar objetos del mismo tipo.
+
+Ejemplo
+
+array = [Nombre, apellido, edad, celular]  
