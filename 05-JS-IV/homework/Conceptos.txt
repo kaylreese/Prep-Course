@@ -1,0 +1,25 @@
+		CONCEPTOS
+
+* Objetos
+
+Un objeto es una colección o conjunto de características como por ejemplo un objeto llamado persona que tiene características como; cabeza, ojos, brazos, piernas, manos, pies,etc. A estas características se les conoce como propiedades. 
+
+
+* Propiedades
+
+Una propiedad es una característica que está asignada a un objeto o que pertenece a un objeto. En otras palabras las propiedades son las que definen al objeto como el caso del ejemplo anterio llamado: objeto persona
+
+
+* Métodos
+
+Los métodos son también una prodiedad de un objeto, sólo que los métodos se diferencian de las demás porque son funciones dentro del objeto. Los métodos pueden realizar tarear o mostrar datos estáticos. También se podría decir que se llama métodos a las cosas que pueden hacer los objetos. Ejemplo las motos ruedan.
+
+
+* Bucle `for…in`
+
+Este bucle permite recorrer las propiedades o características enumerables que tiene un objeto.
+
+
+* Notación de puntos vs notación de corchetes
+
+la notación permite acceder a las propiedades de un objeto, donde la notación de puntos es
