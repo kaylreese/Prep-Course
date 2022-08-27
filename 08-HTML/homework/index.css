@@ -1,0 +1,23 @@
+h1 {
+	color: steelblue;
+}
+
+img {
+	width: 400px;
+	/*position: absolute;*/
+}
+
+#thirdDiv {
+	width: 600px;
+	height: 500px;
+	background-color: teal;
+	padding: 50px;
+	border: 2px solid red;
+	box-shadow: inset 0 0 0 50px lightGreen;
+}
+
+#spanId {
+	font-size: 18px;
+	margin: 50px;
+}
+
